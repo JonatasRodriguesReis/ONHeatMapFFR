@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.qualidade.lg.ffr_anlyze.R;
+import com.qualidade.lg.onheatmapffr.R;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
